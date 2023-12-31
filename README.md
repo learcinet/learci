@@ -1,0 +1,2 @@
+# learci
+Termux
